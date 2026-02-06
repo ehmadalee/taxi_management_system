@@ -292,12 +292,6 @@ For any issues or questions:
 
 This project is developed for educational purposes as part of CS519 coursework.
 
-## Credits
-
-**Group ID**: F25PROJECT7B426
-**Supervisor**: Sumbal Javaid
-**Institution**: Course CS519
-
 ---
 
 **Note**: This system is a complete implementation of all requirements specified in the project documentation. All features are fully functional and tested.
